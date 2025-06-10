@@ -11,6 +11,6 @@ public class HomeController {
     @GetMapping("/hi")
     public String hi(){
 
-        return "hi cicd prac1 asdsdasd";
+        return "hi cicd prac1 sdofooswwww12312312321";
     }
 }
